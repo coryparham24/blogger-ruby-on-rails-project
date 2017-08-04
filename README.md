@@ -1,24 +1,7 @@
-# README
+Hello! This is a project from TheOdinProject's [curriculum](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails?ref=lnav). The purspose of this project was to create a blog app using Ruby on Rails.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To log in as a guest and access the features of the site:
+email: guest@example.com
+password: password
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Thanks!
